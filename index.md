@@ -1,12 +1,12 @@
 ---
-title: Website Widget — Privacy Policy
+title: Webglance — Privacy Policy
 ---
 
-# Website Widget — Privacy Policy
+# Webglance — Privacy Policy
 
 _Last updated: 23 September 2026_
 
-Website Widget shows a screenshot of a website you choose in a home-screen
+Webglance shows a screenshot of a website you choose in a home-screen
 widget and refreshes it on a schedule you set. This policy explains what the
 app does with information. The short version: **everything stays on your
 phone. The app has no servers, no accounts, no analytics and no advertising,

@@ -1,6 +1,6 @@
-# Website Widget — privacy policy
+# Webglance — privacy policy
 
-The public privacy policy for the Website Widget Android app, served with
+The public privacy policy for the Webglance Android app, served with
 GitHub Pages at **https://ngjhd.github.io/website-widget-privacy/**.
 
 The policy text is `index.md`. Its source of truth lives in the app's
