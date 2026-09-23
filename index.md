@@ -59,8 +59,10 @@ there is no push-notification service involved.
   run refreshes reliably.
 
 The app asks you to set its battery usage to "Unrestricted" so refreshes are
-not delayed by battery optimisation. That is a system setting you change
-yourself; it gives the app no access to your data.
+not delayed by battery optimisation, and — if you use Data Saver — to allow it
+to use data while Data Saver is on, so it can load your websites in the
+background. Both are system settings you change yourself; neither gives the app
+access to your data.
 
 ## Children
 
